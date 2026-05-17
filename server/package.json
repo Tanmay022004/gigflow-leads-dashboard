@@ -2,8 +2,12 @@
   "name": "gigflow-server",
   "version": "1.0.0",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "dev": "ts-node-dev src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^6.0.3"
   }
 }
