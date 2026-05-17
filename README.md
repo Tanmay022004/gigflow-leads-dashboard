@@ -5,8 +5,7 @@ A full-stack CRM-style leads management system built for internship assignment e
 ---
 
 ## 🚀 Live Links
-
-Frontend: https://your-vercel-url.vercel.app  
+  
 Backend: https://gigflow-leads-dashboard.onrender.com
 
 ---
